@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Calitra
 - 👀 I’m interested in gaming and coding.
-- 🌱 I’m currently learning data analytics.
+
 
 <!---
 Calitra/Calitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
